@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComplexWords/учитель.md",
+                "file": "ComplexWords/привет.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComplexWords/учитель.md",
+                "file": "ComplexWords/привет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComplexWords/учитель.md",
+                "file": "ComplexWords/привет.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComplexWords/учитель.md"
+                "file": "ComplexWords/привет.md"
               }
             }
           }
@@ -173,16 +173,16 @@
   },
   "active": "27eda799deede505",
   "lastOpenFiles": [
+    "ComplexWords/совет.md",
+    "SimpleWords/вет.md",
+    "Prefix/при.md",
+    "ComplexWords/учитель.md",
     "ComplexWords/писатель.md",
     "Suffix/итель.md",
     "SimpleWords/учить.md",
-    "SimpleWords/вет.md",
     "SimpleWords/писать.md",
     "SimpleWords/водить.md",
-    "ComplexWords/учитель.md",
     "ComplexWords/привет.md",
-    "ComplexWords/совет.md",
-    "Prefix/при.md",
     "Prefix/со.md",
     "README.md",
     "Suffix/bet.md",
