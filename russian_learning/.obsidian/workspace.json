@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suffix/итель.md",
+                "file": "ComplexWords/учитель.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Suffix/итель.md",
+                "file": "ComplexWords/учитель.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Suffix/итель.md",
+                "file": "ComplexWords/учитель.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Suffix/итель.md"
+                "file": "ComplexWords/учитель.md"
               }
             }
           }
@@ -173,12 +173,12 @@
   },
   "active": "27eda799deede505",
   "lastOpenFiles": [
+    "ComplexWords/писатель.md",
+    "Suffix/итель.md",
     "SimpleWords/учить.md",
     "SimpleWords/вет.md",
     "SimpleWords/писать.md",
     "SimpleWords/водить.md",
-    "ComplexWords/писатель.md",
-    "Suffix/итель.md",
     "ComplexWords/учитель.md",
     "ComplexWords/привет.md",
     "ComplexWords/совет.md",
