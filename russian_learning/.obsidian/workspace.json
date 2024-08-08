@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComplexWords/привет.md",
+                "file": "SimpleWords/девочка.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComplexWords/привет.md",
+                "file": "SimpleWords/девочка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComplexWords/привет.md",
+                "file": "SimpleWords/девочка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComplexWords/привет.md"
+                "file": "SimpleWords/девочка.md"
               }
             }
           }
@@ -173,6 +173,14 @@
   },
   "active": "27eda799deede505",
   "lastOpenFiles": [
+    "SimpleWords/мужчина.md",
+    "SimpleWords/девочка.md",
+    "SimpleWords/женщина.md",
+    "Suffix/овать.md",
+    "SimpleWords/пожаловать.md",
+    "SimpleWords/писать.md",
+    "SimpleWords/добро.md",
+    "ComplexWords/привет.md",
     "ComplexWords/совет.md",
     "SimpleWords/вет.md",
     "Prefix/при.md",
@@ -180,9 +188,7 @@
     "ComplexWords/писатель.md",
     "Suffix/итель.md",
     "SimpleWords/учить.md",
-    "SimpleWords/писать.md",
     "SimpleWords/водить.md",
-    "ComplexWords/привет.md",
     "Prefix/со.md",
     "README.md",
     "Suffix/bet.md",
