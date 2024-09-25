@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SimpleWords/девочка.md",
+                "file": "ComplexWords/сложение.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SimpleWords/девочка.md",
+                "file": "ComplexWords/сложение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SimpleWords/девочка.md",
+                "file": "ComplexWords/сложение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SimpleWords/девочка.md"
+                "file": "ComplexWords/сложение.md"
               }
             }
           }
@@ -173,22 +173,24 @@
   },
   "active": "27eda799deede505",
   "lastOpenFiles": [
-    "SimpleWords/мужчина.md",
+    "ComplexWords/умножение.md",
+    "ComplexWords/сложение.md",
     "SimpleWords/девочка.md",
+    "SimpleWords/водить.md",
+    "ComplexWords/учитель.md",
+    "ComplexWords/писатель.md",
+    "ComplexWords/привет.md",
+    "ComplexWords/совет.md",
+    "SimpleWords/мужчина.md",
     "SimpleWords/женщина.md",
     "Suffix/овать.md",
     "SimpleWords/пожаловать.md",
     "SimpleWords/писать.md",
     "SimpleWords/добро.md",
-    "ComplexWords/привет.md",
-    "ComplexWords/совет.md",
     "SimpleWords/вет.md",
     "Prefix/при.md",
-    "ComplexWords/учитель.md",
-    "ComplexWords/писатель.md",
     "Suffix/итель.md",
     "SimpleWords/учить.md",
-    "SimpleWords/водить.md",
     "Prefix/со.md",
     "README.md",
     "Suffix/bet.md",
